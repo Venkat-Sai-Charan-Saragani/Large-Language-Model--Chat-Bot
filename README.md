@@ -98,6 +98,7 @@ API_KEY = "your_groq_api_key_here"
 
 ## 📸 Screenshot
 
+<img width="1908" height="871" alt="image" src="https://github.com/user-attachments/assets/9dd1f23e-b44d-4566-ab84-8bcdebb0c3d2" />
 
 ---
 
